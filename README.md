@@ -3,6 +3,17 @@
 <div align="center">
   <img src="./1792554606843.png" width="100%" alt="CartonIQ Banner">
 </div>
+📱 CartonIQ Screenshots
+
+<p align="center">
+  <img src="./screenshots/file_000000004c4c82118874ac3dc9be0a7d.png" width="30%" alt="CartonIQ Screenshot 1">
+  <img src="./screenshots/file_000000004f8882118bb81bc28f0161c8.png" width="30%" alt="CartonIQ Screenshot 2">
+  <img src="./screenshots/file_00000000722c8211b16f6a39b7b5a531.png" width="30%" alt="CartonIQ Screenshot 3">
+</p><p align="center">
+  <img src="./screenshots/file_00000000795c82119e5ad05a5c7cca6b.png" width="30%" alt="CartonIQ Screenshot 4">
+  <img src="./screenshots/file_00000000a70082119736c5edc51d6ebc.png" width="30%" alt="CartonIQ Screenshot 5">
+  <img src="./screenshots/file_00000000fec08211ae1acf1e8a6d99f0.png" width="30%" alt="CartonIQ Screenshot 6">
+</p>
 
 📦 CartonIQ — Android App
 
