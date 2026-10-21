@@ -49,3 +49,28 @@ See the original CartonIQ project for authorized source code, releases, and addi
 Copyright (c) 2024 Velora Explains (CartonIQ). All Rights Reserved.
 
 All rights are reserved. No copying, modification, redistribution, republishing, or commercial use is permitted without authorization from the rights holder.
+
+---
+
+📲 Installation & Download
+
+Want to try CartonIQ on your Android device?
+
+1. Download the authorized APK from the project's official release page.
+2. Open the downloaded APK on your Android device.
+3. Follow Android's installation instructions.
+4. Launch CartonIQ and explore its available features.
+
+«Note: Only install APK files from trusted, authorized sources.»
+
+📱 Platform
+
+- Android
+
+🆘 Support
+
+If you encounter a problem, please report it through the repository's GitHub Issues section.
+
+---
+
+<p align="center">📦 CartonIQ — Packaging Calculations & Box Design</p>
