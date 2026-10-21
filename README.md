@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  <img src="./1792554606843.png" width="100%" alt="CartonIQ Banner">
+</div>
+
 📦 CartonIQ — Android App
 
 Smart packaging calculations and box design for the corrugated packaging industry.
